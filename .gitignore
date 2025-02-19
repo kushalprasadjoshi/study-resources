@@ -1,0 +1,12 @@
+# Ignore all log files
+*.log
+
+# Ignore all temporary files
+*.tmp
+
+# Ignore all text files
+*.txt
+
+# Ignore all word documents
+*.doc
+*.docx
