@@ -17,6 +17,7 @@ Welcome to **Study Resources**, your one-stop destination for handbooks and chea
 ## 📖 Available Resources  
 
 ### 🔹 Handbooks   
+🐧 [**Linux Basics**](/handbooks/linux-basics.pdf) – Navigate the Linux terminal like a pro.  
 🎯 *More coming soon…*  
 
 ### 🔹 Cheatsheets  
