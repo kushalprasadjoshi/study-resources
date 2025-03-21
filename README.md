@@ -17,10 +17,19 @@ Welcome to **Study Resources**, your one-stop destination for handbooks and chea
 ## 📖 Available Resources  
 
 ### 🔹 Handbooks   
-🐧 [**Linux Basics**](/handbooks/linux-basics.pdf) – Navigate the Linux terminal like a pro.  
+🐧 [**Linux Basics**](/handbooks/linux-basics.pdf) – Navigate the Linux terminal like a pro.
+
+🐍 [**Core Python**](/handbooks/core-python.pdf) – A comprehensive guide to mater the core python.
+
 🎯 *More coming soon…*  
 
-### 🔹 Cheatsheets  
+### 🔹 Cheatsheets 
+🚀 *More on the way!*  
+
+
+### 🔹 Handwritten Notes  
+📖 [**Basic Data Science**](/handwritten-notes/basic-data-science.pdf) – All the basic concepts related to the data science.
+
 🚀 *More on the way!*  
 
 ---
