@@ -30,6 +30,8 @@ Welcome to **Study Resources**, your one-stop destination for handbooks and chea
 ### 🔹 Handwritten Notes  
 📖 [**Basic Data Science**](/handwritten-notes/basic-data-science.pdf) – All the basic concepts related to the data science.
 
+🗃️ [**Basic Data Science All Chapters Zip File**](/handwritten-notes/basic-data-science-all-chapters.zip) - Different pdf for each chapter of data science zipped together.
+
 🚀 *More on the way!*  
 
 ---
